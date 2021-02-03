@@ -1,1 +1,1 @@
-# jalcoding8.github.io
+This website will contain projects created using html, styled with CSS, and the requisite JavaScript for images, links, etc..
