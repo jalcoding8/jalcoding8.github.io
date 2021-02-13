@@ -52,7 +52,7 @@ USA
 </address>
 
 
-<p>Click the button to set the text color to blue, refresh page to undo.</p>
+<p>Click the button to set the text color to blue.</p>
 
 <button onclick="myFunction()">Click This</button>
 
@@ -62,6 +62,17 @@ function myFunction() {
   x.style.color = "blue";
 }
 </script>
+ 
+<p>Click the button again to undo blue color.</p>
+
+<button onclick="newFunction()">Click This</button>
+
+<script>
+function newFunction() {
+  var x = document.getElementById('myAdr');
+  x.style.color = "black";
+}
+</script> 
  
  <p>Below is an example of a click on using an image</p>
 
