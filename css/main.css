@@ -1,6 +1,12 @@
 
-
-a:hover {
+.heading {
+    text-align:right; 
+    font-family: Papyrus;
+    background-color: lightBlue;
+}
+    
+    
+a:hover (
     text-decoration: none;
 )
 
