@@ -1,13 +1,14 @@
 
 .header {
     background-color: LightGreen;
+    text-align: center;
 }
 
 
     
     
 ul, footer ul {
-    font-family:"Helvetica", "Arial", "Sans-Serif";
+    font-family:"Papyrus";
     padding: 0px;
     list-style: none;
     font-weight: bold;
