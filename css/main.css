@@ -18,7 +18,7 @@ body {
 }
  
 .about me {
-    text: absolute;
+    position: absolute;
 }
 
 
