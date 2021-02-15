@@ -1,5 +1,5 @@
 body {
-    font-family: Papyrus;
+    font-family:Papyrus;
 }
 
 .myname {
@@ -17,7 +17,7 @@ h1 {
     
     
 ul, footer ul {
-    font-family:"Papyrus";
+    font-family:Papyrus;
     padding: 0px;
     list-style: none;
     font-weight: bold;
