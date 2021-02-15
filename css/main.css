@@ -2,8 +2,9 @@ body {
     font-family:Papyrus;
 }
 
-img {
-    width: 100%;
+.image {
+    position: absolute;
+    
 }
 
 .myname {
