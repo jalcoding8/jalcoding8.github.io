@@ -3,9 +3,12 @@ body {
 }
 
 .thisimage {
-    width: 80%;
-    height: 75%;
-    padding: 10px;
+    /* width: 80%; */
+    /* height: 75%; */
+    /* padding: 10px; */
+    width: 200px; /* width of container */
+    height: 200px; /* height of container */
+    object-fit: cover;
 }
 
 .myname {
