@@ -16,7 +16,10 @@ body {
     text-align: center;
     background-color: Azure; /* tried NavajoWhite  so-so */
 }
-    
+ 
+.about me {
+    text: absolute;
+}
 
 
     
