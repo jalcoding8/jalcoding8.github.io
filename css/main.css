@@ -1,13 +1,16 @@
+body {
+    font-family: Papyrus;
+}
 
 .myname {
-    font-family: Papyrus;
+  
     text-align: center;
     width: 100%;
-    background-color: yellow;
+    background-color: Azure;
 }
     
 h1 {
-    color: gray;
+  
 }
 
 
