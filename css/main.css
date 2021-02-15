@@ -3,13 +3,14 @@ body {
 }
 
 .thisimage {
+    width: 90%;
     position: absolute;
     
 }
 
 .myname {
     font-size: 24px;
-    
+    text-align: center;
     background-color: Azure;
 }
     
