@@ -4,8 +4,7 @@ body {
 
 .container {
     object-fit: cover;
-    background-color: Azure;
- }
+}
     /* width: 80%; */
     /* height: 75%; */
     /* padding: left: 20px;*/
@@ -21,7 +20,7 @@ body {
 }
  
 .about me {
-    
+    text-align: left;
 }
 
 
