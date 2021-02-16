@@ -3,6 +3,8 @@ body {
 }
 
 .container {
+    background-color: Azure;
+    text-align: center;
     
     /*object-fit: cover;*/
 }
