@@ -3,7 +3,8 @@ body {
 }
 
 .container {
-    object-fit: cover;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHrpwzNN-jx7wqJXW_hCfoUZpGzw2WLcvkVw&usqp=CAU");
+    /*object-fit: cover;*/
 }
     /* width: 80%; */
     /* height: 75%; */
