@@ -3,7 +3,8 @@ body {
 }
 
 .container {
-    object-fit: cover;
+    /* object-fit: cover;*/
+    position: relative;
     width: 1500px;
     height: 400px;
  }
