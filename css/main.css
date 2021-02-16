@@ -8,7 +8,8 @@ body {
     padding: left: 20px;
     width: 1500px; /* width of container */
     height: 400px; /* height of container */
-    object-fit: cover;
+    position: relative
+    /*object-fit: cover;*/
 }
 
 .myname {
