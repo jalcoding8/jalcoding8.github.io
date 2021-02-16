@@ -28,10 +28,23 @@ body {
     text-align: center;
     background-color: Azure; /* tried NavajoWhite  so-so */
 }
- 
+
 .about me {
-    text-align: left;
+    display: block;
+    font-size: 14px;
+    line-height: 14px;
+    margin-left: 20px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 60%;
+    background-color: transparent;
+    
 }
+ 
+/*.about me { */
+/*   text-align: left; */
+
 
 
     
