@@ -4,7 +4,7 @@ body {
 
 .container {
     /* object-fit: cover;*/
-    position: relative;
+    /* position: relative;*/
     width: 1500px;
     height: 400px;
     background-color: Azure;
