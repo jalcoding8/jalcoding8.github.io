@@ -3,10 +3,7 @@ body {
 }
 
 .container {
-    /* object-fit: cover;*/
-    /* position: relative;*/
-    width: 1500px;
-    height: 400px;
+    object-fit: cover;
     background-color: Azure;
  }
     /* width: 80%; */
@@ -24,7 +21,7 @@ body {
 }
  
 .about me {
-    position: absolute;
+    
 }
 
 
