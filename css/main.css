@@ -2,12 +2,12 @@ body {
     font-family: Papyrus;
 }
 
-.thisimage {
+.container {
     /* width: 80%; */
     /* height: 75%; */
-    padding: left: 20px;
-    width: 1500px; /* width of container */
-    height: 400px; /* height of container */
+    /* padding: left: 20px;*/
+    /* width: 1500px;*/ /* width of container */
+    /*height: 400px; */ /* height of container */
     position: relative
     /*object-fit: cover;*/
 }
