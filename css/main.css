@@ -28,15 +28,10 @@ body {
 }
 
 .about me {
-    /*display: block;*/
-    font-size: 12px;
-    line-height: 14px;
-    margin-left: 20px;
-    padding: 10px;
-    /*position: relative;*/
-    /* top: 90%; */
-    /* width: 60%; */
-    background-color: transparent;
+    float:left;
+    width:42px;
+    height:42px;
+}
     
  .nameunderimage {
      text-align: center;
