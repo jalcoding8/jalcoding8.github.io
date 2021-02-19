@@ -4,7 +4,7 @@ body {
 
 .image {
     background-image: url("https://cdn.abcotvs.com/dip/images/3822653_072518-cc-ss-beach-water-img.jpg?w=800&r=16%3A9");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-color: Azure;
     height: 350px;
