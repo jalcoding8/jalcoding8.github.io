@@ -9,7 +9,7 @@ a {
     padding: 10px;
     margin: 10px;
     font-size: 20px;
-    texr-align: right;
+    texr-align: right; !important
     
 }
 
