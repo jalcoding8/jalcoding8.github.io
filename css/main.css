@@ -15,6 +15,7 @@ a {
 
 .container {
     position: relative;
+    border-top: 2px solid black;
     text-align: center;
     /*color: white;*/
 }
