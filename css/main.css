@@ -1,5 +1,5 @@
 body {
-    font-family: Papyrus;  
+    font-family: Papyrus;
 }
 
 a {
@@ -9,8 +9,8 @@ a {
     padding: 10px;
     margin: 10px;
     font-size: 20px;
-    
-    
+
+
 }
 
 .container {
@@ -30,12 +30,12 @@ h1 {
     padding: 25px 0px 25px 15px;
     border-top: 2px solid black;
     border-bottom: 2px solid black
-   
+
 }
 
 
-    
-    
+
+
 ul, footer ul {
     /*font-family: Papyrus;*/
     padding: 0px;
@@ -47,5 +47,3 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
-    
