@@ -18,6 +18,7 @@ a {
 .container {
     position: relative;
     text-align: center;
+    image-rendering: -webkit-optimize-contrast;
     /*color: white;*/
 }
 
