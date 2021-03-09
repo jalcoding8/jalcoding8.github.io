@@ -41,6 +41,12 @@ h1 {
     background-color: white;
 }
 
+.nextimage {
+    background-size: cover;
+    -webkit-optimize-contrast;
+    
+}
+
 
 
 
