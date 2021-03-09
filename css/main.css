@@ -42,6 +42,8 @@ h1 {
 }
 
 .nextimage {
+    width: 750px;
+    height: 500px;
     background-size: cover;
     -webkit-optimize-contrast;
     
