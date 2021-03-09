@@ -17,7 +17,8 @@ a {
     position: relative;
     text-align: center;
     background-size: cover;
-    image-rendering: pixalated; /*-webkit-optimize-contrast;*/
+    /*mage-rendering: pixalated;*/
+    /*-webkit-optimize-contrast;*/
     /*color: white;*/
 }
 
