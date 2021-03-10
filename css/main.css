@@ -45,7 +45,7 @@ h1 {
     width: 750px;
     height: 500px;
     background-size: cover;
-    -webkit-optimize-contrast;
+    /*-webkit-optimize-contrast;*/
     
 }
 
