@@ -44,7 +44,8 @@ h1 {
 .nextimage {
     height: 400;
     width: 1300;
-    position: absolute;
+    position: relative;
+    text-align: center;
     background-size: cover;
 }
 
