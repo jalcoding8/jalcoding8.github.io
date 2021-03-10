@@ -45,7 +45,7 @@ h1 {
     width: 100%;
     position: relative;
     text-align: center;
-    background-size: cover;
+    background-image: cover;
     box-sizing: border-box;
     
 }
