@@ -50,6 +50,7 @@ h1 {
  }
 
 .bigbox {
+    background-color: SkyBlue;
     width: 1000px;
     height: 1000px;
 }
