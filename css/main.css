@@ -51,10 +51,10 @@ h1 {
 
 .bigbox {
     width: 1000px;
-    height:1000px
+    height: 1000px;
 }
 
-boxbottom {
+.boxbottom {
     background-color: blue;
     position: relative;
     top: 20px;
