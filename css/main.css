@@ -57,6 +57,8 @@ h1 {
 .boxbottom {
     background-color: blue;
     position: relative;
+    height: 150;
+    width: 150;
     top: 20px;
     left: 50px;
 }
