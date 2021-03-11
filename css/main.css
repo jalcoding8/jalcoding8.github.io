@@ -47,7 +47,11 @@ h1 {
     text-align: center;
     background-image: cover;
     box-sizing: border-box;
-    
+ }
+
+.boxes {
+    width: 120px;
+    height: 70px
 }
 
 
