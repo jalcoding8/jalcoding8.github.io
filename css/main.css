@@ -49,9 +49,16 @@ h1 {
     box-sizing: border-box;
  }
 
-.boxes {
-    width: 120px;
-    height: 70px
+.bigbox {
+    width: 1000px;
+    height:1000px
+}
+
+boxbottom {
+    background-color: blue;
+    position: relative;
+    top: 20px;
+    left: 50px;
 }
 
 
