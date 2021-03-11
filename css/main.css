@@ -54,6 +54,15 @@ h1 {
     height: 1000px;
 }
 
+.boxtop {
+    background-color: green;
+    height: 75px;
+    width: 75px;
+    position: fixed;
+    top: 30px;
+    left: 40px;
+}
+
 .boxbottom {
     background-color: blue;
     position: relative;
