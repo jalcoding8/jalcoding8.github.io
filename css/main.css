@@ -73,6 +73,13 @@ h1 {
     left: 40px;
 }
 
+.these-boxes {
+    display: inline-block;
+    top: 100px;
+    width: 100px;
+    height: 100px;
+}
+
 
 
 
