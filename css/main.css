@@ -73,9 +73,15 @@ h1 {
     left: 40px;
 }
 
+.another-bigbox {
+    background-color: yellow;
+    height: 400px;
+    width: 1500px;
+}
+
 .these-boxes {
     display: inline-block;
-    top: 100px;
+    top: 30px;
     width: 100px;
     height: 100px;
 }
