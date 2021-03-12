@@ -80,8 +80,10 @@ h1 {
 }
 
 .these-boxes {
-    position: relative;
+    /*position: relative;*/
     display: inline-block;
+    border: 1px solid #466995;
+    margin: 20px;
     top: 30px;
     width: 100px;
     height: 100px;
