@@ -47,13 +47,8 @@ h1 {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    /*background-size: cover;
-    position: relative;
-    width: 100%;
-    text-align: center;
     background-size: cover;
-    box-sizing: border-box;*/
- }
+}
 
 .bigbox {
     background-color: SkyBlue;
