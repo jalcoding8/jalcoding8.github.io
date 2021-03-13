@@ -42,7 +42,8 @@ h1 {
 }
 
 .nextimage {
-    height: 400px;
+    height: 300px;
+    width: 100%;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzaeCu3tKDTlshQ_MFPxAb6PS0IWSFxaRqA&usqp=CAU");
     -webkit-background-size: cover;
     -moz-background-size: cover;
