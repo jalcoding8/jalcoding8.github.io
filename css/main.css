@@ -42,7 +42,7 @@ h1 {
 }
 
 .nextimage {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzaeCu3tKDTlshQ_MFPxAb6PS0IWSFxaRqA&usqp=CAU");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzaeCu3tKDTlshQ_MFPxAb6PS0IWSFxaRqA&usqp=CAU");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
