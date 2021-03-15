@@ -43,6 +43,8 @@ h1 {
 
 .nextimage {
     height: 30rem;
+    max-width: 100%;
+    display: block;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzaeCu3tKDTlshQ_MFPxAb6PS0IWSFxaRqA&usqp=CAU");
     background-position: center;
     background-size: cover;
