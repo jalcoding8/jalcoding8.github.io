@@ -42,17 +42,13 @@ h1 {
 }
 
 .nextimage {
-    position: relative;
-    /*height: 100%;*/
-    /*width: 100%;*/
+    height: 30rem;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzaeCu3tKDTlshQ_MFPxAb6PS0IWSFxaRqA&usqp=CAU");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     background-color: white;
-    height: 250px;
-    width: 1000px;
+    display: flex;
 }
 
 .bigbox {
