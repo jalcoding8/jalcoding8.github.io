@@ -71,6 +71,7 @@ h1 {
 }
 
 .boxbottom {
+    text-align: center;
     background-color: pink;
     position: relative;
     height: 150px;
@@ -80,6 +81,7 @@ h1 {
 }
 
 .another-bigbox {
+    text-align: center;
     background-color: yellow;
     height: 400px;
     width: 1500px;
