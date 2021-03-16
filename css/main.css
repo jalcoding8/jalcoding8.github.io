@@ -42,9 +42,9 @@ h1 {
 }
 
 .img-container {
-    width: 80%;
+    width: 50%;
     height: 300px;
-    overflow: hiddden;
+    overflow: hidden;
 }
 
 .nextimage {
