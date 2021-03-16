@@ -56,9 +56,9 @@ h1 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    height: 1rem;
-    width: 1rem;
-    /*height: 46rem;*/
+    /*height: 1rem;*/
+    /*width: 1rem;*/
+    height: 46rem;
 }
 
 .bigbox {
