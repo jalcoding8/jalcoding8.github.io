@@ -41,17 +41,21 @@ h1 {
     background-color: white;
 }
 
+.img-container {
+    width: 80%;
+    height: 300px;
+    overflow: hiddden;
+}
+
 .nextimage {
-    height: 10rem;
-    width: 20rem
+    height: auto;
     max-width: 100%;
-    display: inline-block;
+    display: block;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzaeCu3tKDTlshQ_MFPxAb6PS0IWSFxaRqA&usqp=CAU");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-color: white;
-    display: flex;
 }
 
 .bigbox {
