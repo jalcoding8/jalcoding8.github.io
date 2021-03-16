@@ -44,6 +44,9 @@ h1 {
 #img-parent {
     height: 400px;
     width: 1150px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .img-container {
@@ -53,13 +56,10 @@ h1 {
     background-size: cover;
     background-position: center;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    
     /*height: 1rem;*/
     /*width: 1rem;*/
-    height: 46rem;
-}
+    
 
 .bigbox {
     background-color: #fff2e6;
