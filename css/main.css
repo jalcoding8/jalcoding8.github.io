@@ -43,7 +43,7 @@ h1 {
 
 #img-container {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzaeCu3tKDTlshQ_MFPxAb6PS0IWSFxaRqA&usqp=CAU");
-    background-repeat: no repeat;
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
