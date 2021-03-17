@@ -44,13 +44,13 @@ h1 {
 .img-parent {
     height: 400px;
     width: 1500px;
-    justify-content: center;
+    /*justify-content: center;*/
     text-align: center;
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    display: flex;
+    /*display: flex;*/
 }
 
 .some-words {
