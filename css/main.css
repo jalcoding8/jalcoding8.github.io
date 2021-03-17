@@ -43,7 +43,7 @@ h1 {
 
 .img-parent {
     height: 400px;
-    width: 1300px;
+    width: 1500px;
     justify-content: center;
     text-align: center;
     position: relative;
@@ -53,6 +53,9 @@ h1 {
     display: flex;
 }
 
+.img-parent h2 {
+    text-align: center;
+}
 
     
 
