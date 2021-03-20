@@ -44,10 +44,10 @@ h1 {
 
 .img-parent {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5xITRhpp9ltPTJbbykZzhKkGWSBk0olJvQ&usqp=CAU");
-    height: 100%;
+    height: 400px;
+    widtg: 1000px;
     /*justify-content: center;*/
-    text-align: center;
-    position: relative;
+    
     background-repeat: no-repeat;
     background-size: cover;
     /*background-position: center;*/
