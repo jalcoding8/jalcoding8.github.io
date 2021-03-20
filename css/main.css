@@ -33,7 +33,7 @@ a {
  }
 
 h1 {
-    text-shadow: 3px 3px 0 #bbbbbb; 
+    /*text-shadow: 3px 3px 0 #bbbbbb; */
     font-size: 20px;
     padding: 25px 0px 25px 15px;
     border-top: 2px solid black;
