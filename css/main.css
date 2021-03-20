@@ -55,7 +55,7 @@ h1 {
 }
 
 .some-words {
-    position: absolute;
+    position: flex;
     text-align: center;
     color: black;
 }
