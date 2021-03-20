@@ -43,14 +43,14 @@ h1 {
 }
 
 .img-parent {
-    height: 400px;
-    width: 1500px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5xITRhpp9ltPTJbbykZzhKkGWSBk0olJvQ&usqp=CAU");
+    height: 100%;
     /*justify-content: center;*/
     text-align: center;
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    /*background-position: center;*/
     /*display: flex;*/
 }
 
