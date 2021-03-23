@@ -62,7 +62,7 @@ h1 {
     
 
 .some-words {
-    position: flex;
+    position: absolute;
     text-align: center;
     color: black;
 }
