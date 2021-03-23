@@ -46,8 +46,8 @@ h1 {
     /*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5xITRhpp9ltPTJbbykZzhKkGWSBk0olJvQ&usqp=CAU");*/
     height: 400px;
     width: 1000px;
-    /*justify-content: center;*/
-    display: block;
+    justify-content: flex;
+    display: flex;
     background-repeat: no-repeat;
     background-size: cover;
     /*background-position: center;*/
