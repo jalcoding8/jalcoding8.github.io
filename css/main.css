@@ -54,8 +54,8 @@ h1 {
 }
 .img-child {
     width: 100%;
-    justify-content: flex;
-    display: flex;
+    justify-content: stretch;
+    /*display: flex;*/
     background-repeat: no-repeat;
     background-size: cover;
 }
